@@ -1,2 +1,2 @@
-pelican
-markdown
+pelican==4.9.1
+markdown==3.7
